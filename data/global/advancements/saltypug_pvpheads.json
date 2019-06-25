@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "PvP Heads",
+        "description": "PvP kills drop player heads!",
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:saltypug",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    
+    }
+}

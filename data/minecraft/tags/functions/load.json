@@ -1,6 +1,6 @@
 {
  "replace":"false",
  "values": [
- "sp_phead:setup"
+ "saltypug:pvpheads/setup"
  ]
 }
